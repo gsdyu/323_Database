@@ -1,6 +1,6 @@
 # 323 Database Fundamentals
 
-Date: Feb-2023 to April-2023
+Project Date: Feb-2023 to April-2023
 
 # Description
 
