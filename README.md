@@ -9,7 +9,7 @@ assignment reviewed by the teacher. To also note is that the Postgre database no
 
 ![Roadmap](https://github.com/gsdyu/323_Database/blob/main/SQLAlchemy%20Project%20Roadmap%20(1).jpg "Roadmap")
 
-This project was not fully developed from scratch; a main aspect was that the teacher initially provided sample code to work with at the start. What essentially the teacher provided were the main 
+This project was not fully developed from scratch; a main aspect was that the teacher initially provided sample code to work with at the start. What essentially the teacher provided in code were the main 
 connection to the database, the initial main function the user interacted with and some helper function, and some of the init for the table classes. The students' goal is to understand this code so that they can effectively integrate new tables to the sample code.
 
 This entire project was split off into multiple chronological assignments during the beginning of the class, that each iteratively build off one another; they build off one another by adding new tables. For this repository, I only included my final iteration for the SQL database which includes the entirety of the roadmap.
