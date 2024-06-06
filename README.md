@@ -16,4 +16,4 @@ This entire project was split off into multiple chronological assignments during
 
 I will admit that it may be confusing determining which part of the code I or my teacher developed. To help with this, I wanted to include the original sample code my teacher provided so that it is possible to see which parts differ. However, I no longer have access to the final sample code for the final iteration.
 Instead I included the sample code for a previous iteration and this will include a good majority to help determine the teacher's part in the work (The database connection, main function, etc...). To also help, for my code, I added placemarker in the file names where I knew I had to change/include my own code.
-This placemarker is "[Class Name]_C.py". Essentially this were files that handled the classes for new tables I needed to integrate, and the user interface in the main function in main.
+This placemarker is "[Class Name]_C.py". Essentially these were files that handled the classes for new tables I needed to integrate, and the user interface in the main function in main.
