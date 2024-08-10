@@ -7,7 +7,10 @@ Project Date: Feb-2023 to April-2023
 This repository is to show one of the final projects assigned from my database class. For this python project, I had to develop a wrappers using SQLAlchemy for users so that they can interact with the PostgreSQL school database develop by the teacher. To note this is not actually use commercially for the school; this is just a private 
 assignment reviewed by the teacher. To also note is that the Postgre database no longer exist since it was only temporary for the class, so currently this project will not work with respect to the fact that there is no longer a connection to be made.
 
+This project was made without git or any other version control. Hence, there will appear to be some inconsistency with the development history of this project. Only the final result remains.
+
 ![Roadmap](https://github.com/gsdyu/323_Database/blob/main/SQLAlchemy%20Project%20Roadmap%20(1).jpg "Roadmap")
+
 
 This project was not fully developed from scratch; a main aspect was that the teacher initially provided sample code to work with at the start. What essentially the teacher provided in code were the main 
 connection to the database, the initial main function the user interacted with and some helper function, and some of the init for the table classes. The students' goal is to understand this code so that they can effectively integrate new tables to the sample code.
